@@ -1,6 +1,6 @@
 # FEBIN K DOMINIC
 
-### Student at Amal Jyothi College Of Engineering
+### Student at Amal Jyothi College Of Engineering, Kanjirappally
 
 ## Skills
 ### Languages
