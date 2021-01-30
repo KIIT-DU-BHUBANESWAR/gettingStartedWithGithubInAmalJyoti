@@ -1,5 +1,6 @@
 good morning,  
-My name is Chris Dennis Pallan.
+My name is Chris Dennis Pallan. 
+
 I use  english and french.
 I like python and machine learning.
 bonjour,
